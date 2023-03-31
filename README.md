@@ -8,4 +8,4 @@
 ## Usage
    - After clicking the link below inspect the page from your web browser and noticed that the various semantic elements are organized
    according to their place on the page.
-   - Here is a link to the deployed webpage [link] (https://will-rd.github.io/Refactor-marketing-agency/)
+   - Here is a link to the deployed webpage (https://will-rd.github.io/Refactor-marketing-agency/)
